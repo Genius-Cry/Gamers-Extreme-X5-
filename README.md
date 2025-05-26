@@ -4,8 +4,6 @@ The Gamer’s Extreme Magisk Module is a specialized tool designed for rooted An
 
 CPU & GPU Optimization: Adjusts processor and graphics settings to reduce lag and maintain stable frame rates during intensive gaming sessions. 
 
-Thermal Management: Implements tweaks to minimize thermal throttling, ensuring consistent performance even during extended play. 
-
 RAM Management: Enhances memory allocation to prioritize gaming applications, leading to reduced stuttering and faster load times. 
 
 Touch & Input Tweaks: Improves touch responsiveness, providing a more fluid and responsive gaming experience. 
